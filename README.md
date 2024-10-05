@@ -1,3 +1,2 @@
 # Cervus
-Download this Python Game
-selfmade
+Download this selfmade Python Game
